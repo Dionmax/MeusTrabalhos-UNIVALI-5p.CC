@@ -1,6 +1,6 @@
-# Meus Trabalhos e Exercícios do 5º em Ciência da Computação (UNIVALI-Itajaí)
+# Meus Trabalhos e Exercícios do 5º em CC (UNIVALI-Itajaí)
 
-Esse repositório conta com meus Trabalhos 4º período da faculdade de ciência da computação.
+Esse repositório conta com meus Trabalhos do 5º período da faculdade de ciência da computação.
 Onde serão armazenados códigos feitos durante meus estudos, e usados em trabalhos.
 
 
